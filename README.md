@@ -27,11 +27,11 @@ You will also need to clone this repository and follow the instructions in the "
 To install the Smart Waste Segregation System, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Set up the ESP32 and ESP-EYE as per the instructions in the "Hardware Implementation" section of the essay.
+2. Set up the ESP32 and ESP-EYE.
 3. Install the required Python packages by running pip install -r requirements.txt.
 4. Start the Flask server by running python server.py.
 5. Upload the main.ino sketch to your ESP32 board.
-6. Connect the components as shown in the "Circuitry of the Smart Waste Bin" section of the essay.
+6. Connect the components.
 7. Power on the system and start segregating waste!
 
 
